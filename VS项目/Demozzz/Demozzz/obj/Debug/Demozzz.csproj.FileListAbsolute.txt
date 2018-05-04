@@ -1,0 +1,10 @@
+H:\VS项目\Demozzz\Demozzz\bin\Debug\Demozzz.exe.config
+H:\VS项目\Demozzz\Demozzz\bin\Debug\Demozzz.exe
+H:\VS项目\Demozzz\Demozzz\bin\Debug\Demozzz.pdb
+H:\VS项目\Demozzz\Demozzz\obj\Debug\Demozzz.csprojResolveAssemblyReference.cache
+H:\VS项目\Demozzz\Demozzz\obj\Debug\Demozzz.Form1.resources
+H:\VS项目\Demozzz\Demozzz\obj\Debug\Demozzz.newWin.resources
+H:\VS项目\Demozzz\Demozzz\obj\Debug\Demozzz.Properties.Resources.resources
+H:\VS项目\Demozzz\Demozzz\obj\Debug\Demozzz.csproj.GenerateResource.Cache
+H:\VS项目\Demozzz\Demozzz\obj\Debug\Demozzz.exe
+H:\VS项目\Demozzz\Demozzz\obj\Debug\Demozzz.pdb

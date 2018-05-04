@@ -1,0 +1,9 @@
+H:\VS项目\InternetTv\InternetTv\bin\Debug\InternetTv.exe.config
+H:\VS项目\InternetTv\InternetTv\bin\Debug\InternetTv.exe
+H:\VS项目\InternetTv\InternetTv\bin\Debug\InternetTv.pdb
+H:\VS项目\InternetTv\InternetTv\obj\Debug\InternetTv.csprojResolveAssemblyReference.cache
+H:\VS项目\InternetTv\InternetTv\obj\Debug\InternetTv.Form1.resources
+H:\VS项目\InternetTv\InternetTv\obj\Debug\InternetTv.Properties.Resources.resources
+H:\VS项目\InternetTv\InternetTv\obj\Debug\InternetTv.csproj.GenerateResource.Cache
+H:\VS项目\InternetTv\InternetTv\obj\Debug\InternetTv.exe
+H:\VS项目\InternetTv\InternetTv\obj\Debug\InternetTv.pdb

@@ -1,0 +1,9 @@
+H:\VS项目\Car\Car\bin\Debug\Car.exe.config
+H:\VS项目\Car\Car\bin\Debug\Car.exe
+H:\VS项目\Car\Car\bin\Debug\Car.pdb
+H:\VS项目\Car\Car\obj\Debug\Car.csprojResolveAssemblyReference.cache
+H:\VS项目\Car\Car\obj\Debug\Car.Form1.resources
+H:\VS项目\Car\Car\obj\Debug\Car.Properties.Resources.resources
+H:\VS项目\Car\Car\obj\Debug\Car.csproj.GenerateResource.Cache
+H:\VS项目\Car\Car\obj\Debug\Car.exe
+H:\VS项目\Car\Car\obj\Debug\Car.pdb

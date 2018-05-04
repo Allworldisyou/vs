@@ -1,0 +1,11 @@
+H:\VS项目\frmMain\frmMain\bin\Debug\frmMain.exe.config
+H:\VS项目\frmMain\frmMain\bin\Debug\frmMain.exe
+H:\VS项目\frmMain\frmMain\bin\Debug\frmMain.pdb
+H:\VS项目\frmMain\frmMain\obj\Debug\frmMain.csprojResolveAssemblyReference.cache
+H:\VS项目\frmMain\frmMain\obj\Debug\frmMain.Properties.Resources.resources
+H:\VS项目\frmMain\frmMain\obj\Debug\frmMain.csproj.GenerateResource.Cache
+H:\VS项目\frmMain\frmMain\obj\Debug\frmMain.exe
+H:\VS项目\frmMain\frmMain\obj\Debug\frmMain.pdb
+H:\VS项目\frmMain\frmMain\obj\Debug\frmMain.lblName.resources
+H:\VS项目\frmMain\frmMain\obj\Debug\frmMain.frmLogin.resources
+H:\VS项目\frmMain\frmMain\obj\Debug\frmMain.frmWlcome.resources

@@ -1,0 +1,6 @@
+H:\VS项目\Book\Book\bin\Debug\Book.exe.config
+H:\VS项目\Book\Book\bin\Debug\Book.exe
+H:\VS项目\Book\Book\bin\Debug\Book.pdb
+H:\VS项目\Book\Book\obj\Debug\Book.csprojResolveAssemblyReference.cache
+H:\VS项目\Book\Book\obj\Debug\Book.exe
+H:\VS项目\Book\Book\obj\Debug\Book.pdb

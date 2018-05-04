@@ -1,0 +1,6 @@
+H:\VS项目\Chapter13\Chapter13\bin\Debug\Chapter13.exe.config
+H:\VS项目\Chapter13\Chapter13\bin\Debug\Chapter13.exe
+H:\VS项目\Chapter13\Chapter13\bin\Debug\Chapter13.pdb
+H:\VS项目\Chapter13\Chapter13\obj\Debug\Chapter13.csprojResolveAssemblyReference.cache
+H:\VS项目\Chapter13\Chapter13\obj\Debug\Chapter13.exe
+H:\VS项目\Chapter13\Chapter13\obj\Debug\Chapter13.pdb

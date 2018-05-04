@@ -1,0 +1,10 @@
+H:\VS项目\MobileManager\MobileManager\bin\Debug\MobileManager.exe.config
+H:\VS项目\MobileManager\MobileManager\bin\Debug\MobileManager.exe
+H:\VS项目\MobileManager\MobileManager\bin\Debug\MobileManager.pdb
+H:\VS项目\MobileManager\MobileManager\obj\Debug\MobileManager.csprojResolveAssemblyReference.cache
+H:\VS项目\MobileManager\MobileManager\obj\Debug\MobileManager.frmAdd.resources
+H:\VS项目\MobileManager\MobileManager\obj\Debug\MobileManager.frmManin.resources
+H:\VS项目\MobileManager\MobileManager\obj\Debug\MobileManager.Properties.Resources.resources
+H:\VS项目\MobileManager\MobileManager\obj\Debug\MobileManager.csproj.GenerateResource.Cache
+H:\VS项目\MobileManager\MobileManager\obj\Debug\MobileManager.exe
+H:\VS项目\MobileManager\MobileManager\obj\Debug\MobileManager.pdb

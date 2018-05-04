@@ -1,0 +1,9 @@
+H:\VS项目\Movie\Movie\bin\Debug\Movie.exe.config
+H:\VS项目\Movie\Movie\bin\Debug\Movie.exe
+H:\VS项目\Movie\Movie\bin\Debug\Movie.pdb
+H:\VS项目\Movie\Movie\obj\Debug\Movie.Form1.resources
+H:\VS项目\Movie\Movie\obj\Debug\Movie.Properties.Resources.resources
+H:\VS项目\Movie\Movie\obj\Debug\Movie.csproj.GenerateResource.Cache
+H:\VS项目\Movie\Movie\obj\Debug\Movie.exe
+H:\VS项目\Movie\Movie\obj\Debug\Movie.pdb
+H:\VS项目\Movie\Movie\obj\Debug\Movie.csprojResolveAssemblyReference.cache

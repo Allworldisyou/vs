@@ -1,0 +1,13 @@
+H:\VS项目\SuperMarkket\SuperMarkket\bin\Debug\SuperMarkket.exe.config
+H:\VS项目\SuperMarkket\SuperMarkket\bin\Debug\SuperMarkket.exe
+H:\VS项目\SuperMarkket\SuperMarkket\bin\Debug\SuperMarkket.pdb
+H:\VS项目\SuperMarkket\SuperMarkket\obj\Debug\SuperMarkket.csprojResolveAssemblyReference.cache
+H:\VS项目\SuperMarkket\SuperMarkket\obj\Debug\SuperMarkket.FormLogin.resources
+H:\VS项目\SuperMarkket\SuperMarkket\obj\Debug\SuperMarkket.Properties.Resources.resources
+H:\VS项目\SuperMarkket\SuperMarkket\obj\Debug\SuperMarkket.csproj.GenerateResource.Cache
+H:\VS项目\SuperMarkket\SuperMarkket\obj\Debug\SuperMarkket.exe
+H:\VS项目\SuperMarkket\SuperMarkket\obj\Debug\SuperMarkket.pdb
+H:\VS项目\SuperMarkket\SuperMarkket\obj\Debug\SuperMarkket.Form2.resources
+H:\VS项目\SuperMarkket\SuperMarkket\obj\Debug\SuperMarkket.frmChangePwd.resources
+H:\VS项目\SuperMarkket\SuperMarkket\obj\Debug\SuperMarkket.frmShow.resources
+H:\VS项目\SuperMarkket\SuperMarkket\obj\Debug\SuperMarkket.frmAdd.resources

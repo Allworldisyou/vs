@@ -1,0 +1,11 @@
+H:\VS项目\Flowers\Flowers\bin\Debug\Flowers.exe.config
+H:\VS项目\Flowers\Flowers\bin\Debug\Flowers.exe
+H:\VS项目\Flowers\Flowers\bin\Debug\Flowers.pdb
+H:\VS项目\Flowers\Flowers\obj\Debug\Flowers.csprojResolveAssemblyReference.cache
+H:\VS项目\Flowers\Flowers\obj\Debug\Flowers.frmFlowerShow.resources
+H:\VS项目\Flowers\Flowers\obj\Debug\Flowers.frmMain.resources
+H:\VS项目\Flowers\Flowers\obj\Debug\Flowers.Properties.Resources.resources
+H:\VS项目\Flowers\Flowers\obj\Debug\Flowers.csproj.GenerateResource.Cache
+H:\VS项目\Flowers\Flowers\obj\Debug\Flowers.exe
+H:\VS项目\Flowers\Flowers\obj\Debug\Flowers.pdb
+H:\VS项目\Flowers\Flowers\obj\Debug\Flowers.frmUpDate.resources

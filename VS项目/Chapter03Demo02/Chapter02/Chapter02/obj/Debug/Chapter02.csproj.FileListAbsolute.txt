@@ -1,0 +1,6 @@
+H:\VS项目\Chapter02\Chapter02\bin\Debug\Chapter02.exe.config
+H:\VS项目\Chapter02\Chapter02\bin\Debug\Chapter02.exe
+H:\VS项目\Chapter02\Chapter02\bin\Debug\Chapter02.pdb
+H:\VS项目\Chapter02\Chapter02\obj\Debug\Chapter02.csprojResolveAssemblyReference.cache
+H:\VS项目\Chapter02\Chapter02\obj\Debug\Chapter02.exe
+H:\VS项目\Chapter02\Chapter02\obj\Debug\Chapter02.pdb

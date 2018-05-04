@@ -1,0 +1,11 @@
+H:\VS项目\NETmoshou\NETmoshou\bin\Debug\NETmoshou.exe.config
+H:\VS项目\NETmoshou\NETmoshou\bin\Debug\NETmoshou.exe
+H:\VS项目\NETmoshou\NETmoshou\bin\Debug\NETmoshou.pdb
+H:\VS项目\NETmoshou\NETmoshou\obj\Debug\NETmoshou.csprojResolveAssemblyReference.cache
+H:\VS项目\NETmoshou\NETmoshou\obj\Debug\NETmoshou.frmLogin.resources
+H:\VS项目\NETmoshou\NETmoshou\obj\Debug\NETmoshou.Properties.Resources.resources
+H:\VS项目\NETmoshou\NETmoshou\obj\Debug\NETmoshou.csproj.GenerateResource.Cache
+H:\VS项目\NETmoshou\NETmoshou\obj\Debug\NETmoshou.exe
+H:\VS项目\NETmoshou\NETmoshou\obj\Debug\NETmoshou.pdb
+H:\VS项目\NETmoshou\NETmoshou\obj\Debug\NETmoshou.FrmRegist.resources
+H:\VS项目\NETmoshou\NETmoshou\obj\Debug\NETmoshou.FrmMain.resources

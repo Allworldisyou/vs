@@ -1,0 +1,6 @@
+H:\VS项目\S2230\Text\bin\Debug\Text.exe.config
+H:\VS项目\S2230\Text\bin\Debug\Text.exe
+H:\VS项目\S2230\Text\bin\Debug\Text.pdb
+H:\VS项目\S2230\Text\obj\Debug\Text.csprojResolveAssemblyReference.cache
+H:\VS项目\S2230\Text\obj\Debug\Text.exe
+H:\VS项目\S2230\Text\obj\Debug\Text.pdb

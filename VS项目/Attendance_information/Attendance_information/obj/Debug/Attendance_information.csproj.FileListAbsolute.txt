@@ -1,0 +1,10 @@
+H:\VS项目\Attendance_information\Attendance_information\bin\Debug\Attendance_information.exe.config
+H:\VS项目\Attendance_information\Attendance_information\bin\Debug\Attendance_information.exe
+H:\VS项目\Attendance_information\Attendance_information\bin\Debug\Attendance_information.pdb
+H:\VS项目\Attendance_information\Attendance_information\obj\Debug\Attendance_information.csprojResolveAssemblyReference.cache
+H:\VS项目\Attendance_information\Attendance_information\obj\Debug\Attendance_information.Form1.resources
+H:\VS项目\Attendance_information\Attendance_information\obj\Debug\Attendance_information.FrmAdd.resources
+H:\VS项目\Attendance_information\Attendance_information\obj\Debug\Attendance_information.Properties.Resources.resources
+H:\VS项目\Attendance_information\Attendance_information\obj\Debug\Attendance_information.csproj.GenerateResource.Cache
+H:\VS项目\Attendance_information\Attendance_information\obj\Debug\Attendance_information.exe
+H:\VS项目\Attendance_information\Attendance_information\obj\Debug\Attendance_information.pdb

@@ -1,0 +1,9 @@
+H:\VS项目\Small\Small\bin\Debug\Small.exe.config
+H:\VS项目\Small\Small\bin\Debug\Small.exe
+H:\VS项目\Small\Small\bin\Debug\Small.pdb
+H:\VS项目\Small\Small\obj\Debug\Small.csprojResolveAssemblyReference.cache
+H:\VS项目\Small\Small\obj\Debug\Small.Form1.resources
+H:\VS项目\Small\Small\obj\Debug\Small.Properties.Resources.resources
+H:\VS项目\Small\Small\obj\Debug\Small.csproj.GenerateResource.Cache
+H:\VS项目\Small\Small\obj\Debug\Small.exe
+H:\VS项目\Small\Small\obj\Debug\Small.pdb

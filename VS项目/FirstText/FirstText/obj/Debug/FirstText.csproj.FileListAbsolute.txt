@@ -1,0 +1,9 @@
+H:\VS项目\FirstText\FirstText\bin\Debug\FirstText.exe.config
+H:\VS项目\FirstText\FirstText\obj\Debug\FirstText.csprojResolveAssemblyReference.cache
+H:\VS项目\FirstText\FirstText\obj\Debug\FirstText.Form1.resources
+H:\VS项目\FirstText\FirstText\obj\Debug\FirstText.Properties.Resources.resources
+H:\VS项目\FirstText\FirstText\obj\Debug\FirstText.csproj.GenerateResource.Cache
+H:\VS项目\FirstText\FirstText\bin\Debug\FirstText.exe
+H:\VS项目\FirstText\FirstText\bin\Debug\FirstText.pdb
+H:\VS项目\FirstText\FirstText\obj\Debug\FirstText.exe
+H:\VS项目\FirstText\FirstText\obj\Debug\FirstText.pdb

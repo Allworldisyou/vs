@@ -1,0 +1,6 @@
+H:\VS项目\Restaurant\Restaurant\bin\Debug\Restaurant.exe.config
+H:\VS项目\Restaurant\Restaurant\obj\Debug\Restaurant.csprojResolveAssemblyReference.cache
+H:\VS项目\Restaurant\Restaurant\bin\Debug\Restaurant.exe
+H:\VS项目\Restaurant\Restaurant\bin\Debug\Restaurant.pdb
+H:\VS项目\Restaurant\Restaurant\obj\Debug\Restaurant.exe
+H:\VS项目\Restaurant\Restaurant\obj\Debug\Restaurant.pdb

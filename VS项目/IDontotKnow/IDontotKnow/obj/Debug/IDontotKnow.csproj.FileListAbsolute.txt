@@ -1,0 +1,6 @@
+H:\VS项目\IDontotKnow\IDontotKnow\bin\Debug\IDontotKnow.exe.config
+H:\VS项目\IDontotKnow\IDontotKnow\obj\Debug\IDontotKnow.csprojResolveAssemblyReference.cache
+H:\VS项目\IDontotKnow\IDontotKnow\bin\Debug\IDontotKnow.exe
+H:\VS项目\IDontotKnow\IDontotKnow\bin\Debug\IDontotKnow.pdb
+H:\VS项目\IDontotKnow\IDontotKnow\obj\Debug\IDontotKnow.exe
+H:\VS项目\IDontotKnow\IDontotKnow\obj\Debug\IDontotKnow.pdb

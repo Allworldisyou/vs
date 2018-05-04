@@ -1,0 +1,5 @@
+H:\VS项目\S2230\Day02_0400\bin\Debug\Day02_0400.exe.config
+H:\VS项目\S2230\Day02_0400\bin\Debug\Day02_0400.exe
+H:\VS项目\S2230\Day02_0400\bin\Debug\Day02_0400.pdb
+H:\VS项目\S2230\Day02_0400\obj\Debug\Day02_0400.exe
+H:\VS项目\S2230\Day02_0400\obj\Debug\Day02_0400.pdb

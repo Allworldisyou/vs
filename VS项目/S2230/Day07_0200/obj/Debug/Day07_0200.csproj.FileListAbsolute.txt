@@ -1,0 +1,10 @@
+H:\VS项目\S2230\Day07_0200\bin\Debug\Day07_0200.exe.config
+H:\VS项目\S2230\Day07_0200\bin\Debug\Day07_0200.exe
+H:\VS项目\S2230\Day07_0200\bin\Debug\Day07_0200.pdb
+H:\VS项目\S2230\Day07_0200\bin\Debug\IrisSkin2.dll
+H:\VS项目\S2230\Day07_0200\obj\Debug\Day07_0200.csprojResolveAssemblyReference.cache
+H:\VS项目\S2230\Day07_0200\obj\Debug\Day07_0200.Form1.resources
+H:\VS项目\S2230\Day07_0200\obj\Debug\Day07_0200.Properties.Resources.resources
+H:\VS项目\S2230\Day07_0200\obj\Debug\Day07_0200.csproj.GenerateResource.Cache
+H:\VS项目\S2230\Day07_0200\obj\Debug\Day07_0200.exe
+H:\VS项目\S2230\Day07_0200\obj\Debug\Day07_0200.pdb

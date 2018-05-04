@@ -1,0 +1,9 @@
+H:\VS项目\S2230\Day08_0400\bin\Debug\Day08_0400.exe.config
+H:\VS项目\S2230\Day08_0400\bin\Debug\Day08_0400.exe
+H:\VS项目\S2230\Day08_0400\bin\Debug\Day08_0400.pdb
+H:\VS项目\S2230\Day08_0400\obj\Debug\Day08_0400.csprojResolveAssemblyReference.cache
+H:\VS项目\S2230\Day08_0400\obj\Debug\Day08_0400.Form1.resources
+H:\VS项目\S2230\Day08_0400\obj\Debug\Day08_0400.Properties.Resources.resources
+H:\VS项目\S2230\Day08_0400\obj\Debug\Day08_0400.csproj.GenerateResource.Cache
+H:\VS项目\S2230\Day08_0400\obj\Debug\Day08_0400.exe
+H:\VS项目\S2230\Day08_0400\obj\Debug\Day08_0400.pdb

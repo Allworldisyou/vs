@@ -1,0 +1,6 @@
+H:\VS项目\S2230\Bf\bin\Debug\Bf.exe.config
+H:\VS项目\S2230\Bf\bin\Debug\Bf.exe
+H:\VS项目\S2230\Bf\bin\Debug\Bf.pdb
+H:\VS项目\S2230\Bf\obj\Debug\Bf.csprojResolveAssemblyReference.cache
+H:\VS项目\S2230\Bf\obj\Debug\Bf.exe
+H:\VS项目\S2230\Bf\obj\Debug\Bf.pdb

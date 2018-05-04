@@ -1,0 +1,6 @@
+H:\VS项目\TheBank\TheBank\bin\Debug\TheBank.exe.config
+H:\VS项目\TheBank\TheBank\bin\Debug\TheBank.exe
+H:\VS项目\TheBank\TheBank\bin\Debug\TheBank.pdb
+H:\VS项目\TheBank\TheBank\obj\Debug\TheBank.csprojResolveAssemblyReference.cache
+H:\VS项目\TheBank\TheBank\obj\Debug\TheBank.exe
+H:\VS项目\TheBank\TheBank\obj\Debug\TheBank.pdb

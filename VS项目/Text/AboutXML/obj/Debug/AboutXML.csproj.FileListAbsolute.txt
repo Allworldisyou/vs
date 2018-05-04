@@ -1,0 +1,9 @@
+H:\VS项目\Text\AboutXML\bin\Debug\AboutXML.exe.config
+H:\VS项目\Text\AboutXML\bin\Debug\AboutXML.exe
+H:\VS项目\Text\AboutXML\bin\Debug\AboutXML.pdb
+H:\VS项目\Text\AboutXML\obj\Debug\AboutXML.csprojResolveAssemblyReference.cache
+H:\VS项目\Text\AboutXML\obj\Debug\AboutXML.Form1.resources
+H:\VS项目\Text\AboutXML\obj\Debug\AboutXML.Properties.Resources.resources
+H:\VS项目\Text\AboutXML\obj\Debug\AboutXML.csproj.GenerateResource.Cache
+H:\VS项目\Text\AboutXML\obj\Debug\AboutXML.exe
+H:\VS项目\Text\AboutXML\obj\Debug\AboutXML.pdb

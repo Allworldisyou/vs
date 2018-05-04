@@ -1,0 +1,9 @@
+H:\VS项目\HealthCheckUp777\HealthCheckUp777\bin\Debug\HealthCheckUp777.exe.config
+H:\VS项目\HealthCheckUp777\HealthCheckUp777\bin\Debug\HealthCheckUp777.exe
+H:\VS项目\HealthCheckUp777\HealthCheckUp777\bin\Debug\HealthCheckUp777.pdb
+H:\VS项目\HealthCheckUp777\HealthCheckUp777\obj\Debug\HealthCheckUp777.csprojResolveAssemblyReference.cache
+H:\VS项目\HealthCheckUp777\HealthCheckUp777\obj\Debug\HealthCheckUp777.Form1.resources
+H:\VS项目\HealthCheckUp777\HealthCheckUp777\obj\Debug\HealthCheckUp777.Properties.Resources.resources
+H:\VS项目\HealthCheckUp777\HealthCheckUp777\obj\Debug\HealthCheckUp777.csproj.GenerateResource.Cache
+H:\VS项目\HealthCheckUp777\HealthCheckUp777\obj\Debug\HealthCheckUp777.exe
+H:\VS项目\HealthCheckUp777\HealthCheckUp777\obj\Debug\HealthCheckUp777.pdb

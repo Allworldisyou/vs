@@ -1,0 +1,9 @@
+H:\VS项目\Health2\Health2\bin\Debug\Health2.exe.config
+H:\VS项目\Health2\Health2\bin\Debug\Health2.exe
+H:\VS项目\Health2\Health2\bin\Debug\Health2.pdb
+H:\VS项目\Health2\Health2\obj\Debug\Health2.csprojResolveAssemblyReference.cache
+H:\VS项目\Health2\Health2\obj\Debug\Health2.Form1.resources
+H:\VS项目\Health2\Health2\obj\Debug\Health2.Properties.Resources.resources
+H:\VS项目\Health2\Health2\obj\Debug\Health2.csproj.GenerateResource.Cache
+H:\VS项目\Health2\Health2\obj\Debug\Health2.exe
+H:\VS项目\Health2\Health2\obj\Debug\Health2.pdb

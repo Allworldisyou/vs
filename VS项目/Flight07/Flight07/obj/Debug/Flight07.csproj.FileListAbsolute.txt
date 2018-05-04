@@ -1,0 +1,9 @@
+H:\VS项目\Flight07\Flight07\bin\Debug\Flight07.exe.config
+H:\VS项目\Flight07\Flight07\bin\Debug\Flight07.exe
+H:\VS项目\Flight07\Flight07\bin\Debug\Flight07.pdb
+H:\VS项目\Flight07\Flight07\obj\Debug\Flight07.csprojResolveAssemblyReference.cache
+H:\VS项目\Flight07\Flight07\obj\Debug\Flight07.Form1.resources
+H:\VS项目\Flight07\Flight07\obj\Debug\Flight07.Properties.Resources.resources
+H:\VS项目\Flight07\Flight07\obj\Debug\Flight07.csproj.GenerateResource.Cache
+H:\VS项目\Flight07\Flight07\obj\Debug\Flight07.exe
+H:\VS项目\Flight07\Flight07\obj\Debug\Flight07.pdb

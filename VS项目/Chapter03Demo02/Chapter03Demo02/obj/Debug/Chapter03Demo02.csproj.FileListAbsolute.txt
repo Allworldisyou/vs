@@ -1,0 +1,6 @@
+H:\VS项目\Chapter03Demo02\Chapter03Demo02\bin\Debug\Chapter03Demo02.exe.config
+H:\VS项目\Chapter03Demo02\Chapter03Demo02\bin\Debug\Chapter03Demo02.exe
+H:\VS项目\Chapter03Demo02\Chapter03Demo02\bin\Debug\Chapter03Demo02.pdb
+H:\VS项目\Chapter03Demo02\Chapter03Demo02\obj\Debug\Chapter03Demo02.csprojResolveAssemblyReference.cache
+H:\VS项目\Chapter03Demo02\Chapter03Demo02\obj\Debug\Chapter03Demo02.exe
+H:\VS项目\Chapter03Demo02\Chapter03Demo02\obj\Debug\Chapter03Demo02.pdb

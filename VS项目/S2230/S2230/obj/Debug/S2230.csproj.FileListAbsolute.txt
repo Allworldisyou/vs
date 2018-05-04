@@ -1,0 +1,6 @@
+H:\VS项目\S2230\S2230\bin\Debug\S2230.exe.config
+H:\VS项目\S2230\S2230\bin\Debug\S2230.exe
+H:\VS项目\S2230\S2230\bin\Debug\S2230.pdb
+H:\VS项目\S2230\S2230\obj\Debug\S2230.csprojResolveAssemblyReference.cache
+H:\VS项目\S2230\S2230\obj\Debug\S2230.exe
+H:\VS项目\S2230\S2230\obj\Debug\S2230.pdb

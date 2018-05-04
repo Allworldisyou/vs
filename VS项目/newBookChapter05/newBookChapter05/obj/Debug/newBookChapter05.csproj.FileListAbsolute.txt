@@ -1,0 +1,9 @@
+H:\VS项目\newBookChapter05\newBookChapter05\bin\Debug\newBookChapter05.exe.config
+H:\VS项目\newBookChapter05\newBookChapter05\bin\Debug\newBookChapter05.exe
+H:\VS项目\newBookChapter05\newBookChapter05\bin\Debug\newBookChapter05.pdb
+H:\VS项目\newBookChapter05\newBookChapter05\obj\Debug\newBookChapter05.csprojResolveAssemblyReference.cache
+H:\VS项目\newBookChapter05\newBookChapter05\obj\Debug\newBookChapter05.Form1.resources
+H:\VS项目\newBookChapter05\newBookChapter05\obj\Debug\newBookChapter05.Properties.Resources.resources
+H:\VS项目\newBookChapter05\newBookChapter05\obj\Debug\newBookChapter05.csproj.GenerateResource.Cache
+H:\VS项目\newBookChapter05\newBookChapter05\obj\Debug\newBookChapter05.exe
+H:\VS项目\newBookChapter05\newBookChapter05\obj\Debug\newBookChapter05.pdb

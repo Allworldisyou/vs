@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Book>
+  <bookNo id="001">
+    <bookName>
+      三只小猪
+    </bookName>
+  </bookNo>
+  <bookNo id="002">
+    <bookName>
+      白雪公主
+    </bookName>
+  </bookNo>
+  <bookNo id="003">
+    <bookName>
+      青蛙王子
+    </bookName>
+  </bookNo>
+</Book>

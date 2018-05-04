@@ -1,0 +1,6 @@
+H:\VS项目\loveHeart\loveHeart\bin\Debug\loveHeart.exe.config
+H:\VS项目\loveHeart\loveHeart\bin\Debug\loveHeart.exe
+H:\VS项目\loveHeart\loveHeart\bin\Debug\loveHeart.pdb
+H:\VS项目\loveHeart\loveHeart\obj\Debug\loveHeart.csprojResolveAssemblyReference.cache
+H:\VS项目\loveHeart\loveHeart\obj\Debug\loveHeart.exe
+H:\VS项目\loveHeart\loveHeart\obj\Debug\loveHeart.pdb

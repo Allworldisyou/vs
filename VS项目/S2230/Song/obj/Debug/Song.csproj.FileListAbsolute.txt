@@ -1,0 +1,15 @@
+H:\VS项目\S2230\Song\bin\Debug\Song.exe.config
+H:\VS项目\S2230\Song\bin\Debug\Song.exe
+H:\VS项目\S2230\Song\bin\Debug\Song.pdb
+H:\VS项目\S2230\Song\bin\Debug\Interop.WMPLib.dll
+H:\VS项目\S2230\Song\bin\Debug\AxInterop.WMPLib.dll
+H:\VS项目\S2230\Song\obj\Debug\Song.csprojResolveAssemblyReference.cache
+H:\VS项目\S2230\Song\obj\Debug\Interop.WMPLib.dll
+H:\VS项目\S2230\Song\obj\Debug\AxInterop.WMPLib.dll
+H:\VS项目\S2230\Song\obj\Debug\Song.csproj.ResolveComReference.cache
+H:\VS项目\S2230\Song\obj\Debug\Song.Form1.resources
+H:\VS项目\S2230\Song\obj\Debug\Song.FrmPlaySong.resources
+H:\VS项目\S2230\Song\obj\Debug\Song.Properties.Resources.resources
+H:\VS项目\S2230\Song\obj\Debug\Song.csproj.GenerateResource.Cache
+H:\VS项目\S2230\Song\obj\Debug\Song.exe
+H:\VS项目\S2230\Song\obj\Debug\Song.pdb

@@ -1,0 +1,5 @@
+H:\VS项目\Chapter01Demo1\Chapter01Demo1\bin\Debug\Chapter01Demo1.exe.config
+H:\VS项目\Chapter01Demo1\Chapter01Demo1\bin\Debug\Chapter01Demo1.exe
+H:\VS项目\Chapter01Demo1\Chapter01Demo1\bin\Debug\Chapter01Demo1.pdb
+H:\VS项目\Chapter01Demo1\Chapter01Demo1\obj\Debug\Chapter01Demo1.exe
+H:\VS项目\Chapter01Demo1\Chapter01Demo1\obj\Debug\Chapter01Demo1.pdb

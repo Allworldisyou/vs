@@ -1,0 +1,10 @@
+H:\VS项目\MyOffice\MyOffice\bin\Debug\MyOffice.exe.config
+H:\VS项目\MyOffice\MyOffice\bin\Debug\MyOffice.exe
+H:\VS项目\MyOffice\MyOffice\bin\Debug\MyOffice.pdb
+H:\VS项目\MyOffice\MyOffice\obj\Debug\MyOffice.csprojResolveAssemblyReference.cache
+H:\VS项目\MyOffice\MyOffice\obj\Debug\MyOffice.Form1.resources
+H:\VS项目\MyOffice\MyOffice\obj\Debug\MyOffice.FrmShow.resources
+H:\VS项目\MyOffice\MyOffice\obj\Debug\MyOffice.Properties.Resources.resources
+H:\VS项目\MyOffice\MyOffice\obj\Debug\MyOffice.csproj.GenerateResource.Cache
+H:\VS项目\MyOffice\MyOffice\obj\Debug\MyOffice.exe
+H:\VS项目\MyOffice\MyOffice\obj\Debug\MyOffice.pdb
